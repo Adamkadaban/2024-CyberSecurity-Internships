@@ -152,7 +152,7 @@ Use this repo to share and keep track of cyber/information security internships!
 | **[Norfolk Southern](http://www.nscorp.com/content/nscorp/en.html)** |  Information Security Spring/Summer Intern 2024 | Atlanta, GA, USA | [Apply here](https://jobs.nscorp.com/job/Atlanta-Information-Security-SpringSummer-Intern-2024-GA-30308/1072916200/) | 🛂 | Steptember 6, 2023 |
 | **[UPS](https://www.ups.com/)** | Role | Louisville, KY, USA </br>Mahwah, NJ, USA </br>Parsippany, NJ, USA | [Apply here](https://www.jobs-ups.com/job/-/-/1187/53716054000) | 🇺🇸 | Unknown |
 | **[Ford](https://www.ford.com/)** | 2024 Cyber Security Internship | Dearborn, MI, USA </br> Hybrid | [Apply here](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17190) | 🛂 | September 1, 2023 |
-| **[Southwest](https://www.southwest.com/)** | Cybersecurity Analyst Spring 2024 Intern | Remote | [Apply here](https://careers.southwestair.com/job/R-2023-34187/Cybersecurity-Analyst-Spring-2024-Intern-Remote) | 🛂 | September 1, 2023 |
+| **[Southwest](https://www.southwest.com/)** | Cybersecurity Analyst Spring 2024 Intern | Remote | [Apply here](https://careers.southwestair.com/job/R-2023-34187/Cybersecurity-Analyst-Spring-2024-Intern-Remote) | 🛂 🔒 | September 1, 2023 |
 
 
 ## Sports / Sports Equipment 🏃
